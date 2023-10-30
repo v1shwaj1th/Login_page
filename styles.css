@@ -85,3 +85,7 @@ body {
 .login-container p{
     text-align: center;
 }
+
+.login-container a{
+    color: #0056b3;
+}
